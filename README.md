@@ -21,7 +21,7 @@ Zombies:
   Confusing - Gives a Player the confusion effect
   Weakening - Gives a Player the weakness effect
   Healing - Adds the health taken from the Player to the Zombie's total health
-
+ 
 Creepers:
   Lava - Changes the blocks it destroys to lava
   Water - Changes the blocks it destroys to water
