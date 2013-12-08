@@ -1,4 +1,4 @@
-package main.java.com.github.KrazyTraynz;
+package com.github.KrazyTraynz;
 
 import org.bukkit.entity.Arrow;
 import org.bukkit.entity.Player;
