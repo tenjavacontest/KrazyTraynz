@@ -1,10 +1,5 @@
 name: EntitiesPlus
-<<<<<<< HEAD
 author: KrazyTraynz
 version: 1.0
 main: com.github.KrazyTraynz
-=======
-version: 1.0
-author: KrazyTraynz
-main: com.github.KrazyTraynz.EntitiesPlus
->>>>>>> ffef5c29359d1927d78590dedbe480eabe32a964
+
